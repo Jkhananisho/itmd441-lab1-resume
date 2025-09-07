@@ -16,3 +16,22 @@ html, body {
   margin: 0 auto;
   padding: 0 1rem;
 }
+
+/* header */
+
+.main-header {
+  background: #2b6e8d;
+  color: white;
+  padding: 1.5rem 0;
+  border-bottom: 4px solid #000000;
+}
+
+.header-wrap {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.avatar {
+
+}
