@@ -68,3 +68,13 @@ html, body {
 .contact a:hover {
   background: #fcd951; 
 }
+
+/* sections */
+
+main {
+  padding: 2rem 0 3rem;
+}
+
+section {
+  margin-bottom: 2rem;
+}
