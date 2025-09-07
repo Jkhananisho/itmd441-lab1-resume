@@ -7,8 +7,8 @@
 html, body {
   font-family: system-ui, 'Segoe UI', 'Open Sans', 'Helvetica Neue', sans-serif;
   line-height: 1.5;
-  background-color: white;
-  color: black;
+  background-color: #0d0d0db4;
+  color: #e5e5e5;
 }
 
 .container {
@@ -20,10 +20,9 @@ html, body {
 /* header */
 
 .main-header {
-  background: #2b6e8d;
-  color: white;
+  background: #1a1a1a;
   padding: 1.5rem 0;
-  border-bottom: 4px solid #000000;
+  border-bottom: 4px solid #facc15;
 }
 
 .header-wrap {
@@ -33,5 +32,9 @@ html, body {
 }
 
 .avatar {
-
+  width: 100px;
+  height: 100px;
+  border-radius: 999px;
+  border: 3px solid #facc15;
+  object-fit: cover;
 }
