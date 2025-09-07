@@ -99,3 +99,29 @@ p {
   font-size: 1rem;
   color: #d4d4d4;
 }
+
+.summary {
+  
+}
+
+/* lists */
+
+ul {
+  padding: 0;
+}
+
+ul li {
+  margin-bottom: .15rem;
+  color: #e5e5e5;
+}
+
+/* cards */
+
+.card {
+  background: #1f1f1f;
+  border: 1px solid #464646;
+  border-radius: .1rem;
+  padding: 2rem;
+  margin-bottom: 1rem;
+  transition: border-color 0.2 ease;
+}
