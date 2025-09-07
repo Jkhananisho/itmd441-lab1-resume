@@ -139,3 +139,16 @@ ul li {
   border-radius: .5rem;
   margin-bottom: .5rem;
 }
+
+.skills-list strong {
+  color: #facc15;
+}
+
+footer {
+  background: #1a1a1a;
+  padding: 1rem 0;
+  text-align: center;
+  font-size: 1rem;
+  color: #a3a3a3;
+  border-top: 1px solid #2e2e2e;
+}
