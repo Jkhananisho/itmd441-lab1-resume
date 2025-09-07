@@ -78,3 +78,24 @@ main {
 section {
   margin-bottom: 2rem;
 }
+
+h2 {
+  font-size: 1.3rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: .1em;
+  color: #facc15;
+  margin-bottom: .75rem;
+}
+
+h3 {
+  font-size: 1.15rem;
+  font-weight: 600;
+  margin-bottom: .5rem;
+  color: white;
+}
+
+p {
+  font-size: 1rem;
+  color: #d4d4d4;
+}
