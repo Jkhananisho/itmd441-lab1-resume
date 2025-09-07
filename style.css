@@ -138,6 +138,7 @@ ul li {
   padding: .75rem;
   border-radius: .5rem;
   margin-bottom: .5rem;
+  list-style: none;
 }
 
 .skills-list strong {
