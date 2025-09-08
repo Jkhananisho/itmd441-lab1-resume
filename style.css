@@ -101,7 +101,19 @@ p {
 }
 
 .summary {
-  
+  background: #1a1a1a;
+  border: 1px solid #2e2e2e;
+  border-left: 4px solid #facc15;
+  padding: 1rem 1.25rem;
+  border-radius: .5rem;
+  margin-bottom: 2rem;
+  margin-top: 2rem;
+}
+
+.summary p {
+  color: #d4d4d4;
+  font-size: 1rem;
+  line-height: 1.6;
 }
 
 /* lists */
@@ -153,3 +165,5 @@ footer {
   color: #a3a3a3;
   border-top: 1px solid #2e2e2e;
 }
+
+/* mobile time yay */
