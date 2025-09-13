@@ -186,6 +186,25 @@ footer {
   line-height: 1.6;
 }
 
+.btn-wrap {
+  text-align: center;
+  margin-top: 1.5rem;
+}
+
+.button {
+  display: inline-block;
+  padding: .5rem 1rem;
+  background: #facc15;
+  color: #0d0d0d;
+  border-radius: 999px;
+  text-decoration: none;
+  transition: background 0.5s ease;
+}
+
+.button:hover {
+  background: #fcd951;
+}
+
 /* mobile time yay */
 
 @media (max-width:600px) {
